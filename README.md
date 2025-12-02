@@ -27,6 +27,8 @@ Beyond public repos, I have heavy experience building production-grade systems i
 These experiences are part of my professional/freelance portfolio, which I’m happy to discuss or present privately — they reflect real-world impact even if not fully open-sourced.  
 
 ---
+📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=akashrai2003&theme=default&hide_border=false)<br/>
 
 ---
 
