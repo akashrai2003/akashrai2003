@@ -1,95 +1,53 @@
 <h1 align="center">Hi, I'm Akash 👋</h1>
-<h3 align="center">AI Engineer • LLMs • RAG Systems • Distributed Training • Backend & Infra</h3>
+<h3 align="center">AI / ML Engineer | LLM & RAG • Backend & ML Pipelines</h3>
 
 <p align="center">
   <a href="https://github.com/akashrai2003"><img src="https://img.shields.io/github/followers/akashrai2003?label=Follow&style=social"></a>
-  <a href="mailto:akashtooop@gmail.com"><img src="https://img.shields.io/badge/Email-akashtooop%40gmail.com-red"></a>
   <a href="https://www.linkedin.com/in/akash-rai1701/"><img src="https://img.shields.io/badge/LinkedIn-akashrai-blue?logo=linkedin"></a>
+  <!-- Add email badge if you wish -->
 </p>
 
 ---
 
-## 🚀 About Me  
-I’m an **AI Engineer** who builds **production-grade LLM systems**, **agentic RAG pipelines**, and **scalable backend infra**.  
-I love solving complex technical problems using **first principles**, especially involving LLM fine-tuning, retrieval architecture, microservices, and distributed compute.
+## 🧑‍💻 Public Projects & Repos  
+Here are some of my publicly accessible projects:
 
-📌 Experience exclusively in fast-paced **startups, defense-grade projects, and enterprise AI systems**.  
-📌 I build products end-to-end: **data → model → backend → deployment**.
+| Repo / Project Name | Short Description |
+|--------------------|-------------------|
+| **`RAG-POC`** | Proof-of-concept for RAG pipelines (embeddings + retrieval + generation) — demo-level. |
+| **`FineTuning-MultimodalLM`** | Experimentation with multimodal model fine-tuning and testing. |
+| **`NLP-Pipeline`** | Python-based text processing & NLP pipeline scripts / utilities. |
+| **`Content-Transformation-Agent`** | Prototype agent for content transformation using LLMs + retrieval. |
+| **`Adv_RAG`** | Advanced RAG pipeline project capable of handling large embedding sets. |
 
----
-
-## 🔥 What I Work On  
-- LLM fine-tuning (Qwen, LLaMA, custom SLMs)  
-- High-performance RAG systems (hybrid search, embeddings, ranking)  
-- On-prem & cloud LLM inference (microservices, RabbitMQ, MongoDB, MinIO)  
-- Agentic workflows using LangChain, LangGraph  
-- Distributed training with Horovod, Ray Tune, DDP  
-- Optimizing inference: GGUF, GPTQ, AWQ quantization  
-- FastAPI, Docker, CI/CD, scalable backend infra  
+> ⚠️ *Note*: These are public prototypes and experiments — meant to showcase my coding style, approach to ML/NLP engineering, and willingness to explore.  
 
 ---
 
-## 🧠 Skills & Tools
+## 🚀 What I Do (Industry & Private Work)  
+Beyond public repos, I have heavy experience building production-grade systems in corporate and startup settings:  
 
-**AI & ML:**  
-`LLMs` • `RAG` • `PEFT / LoRA` • `SFT` • `Embeddings` • `Retrieval` • `Bayesian Optimization` • `NLP`
+- Designing and deploying **on-prem LLM inference platforms** with microservices (Docker, RabbitMQ, storage, APIs).  
+- Building **enterprise-grade RAG systems** (ingestion, embedding pipelines, hybrid retrieval, metadata filtering, efficient ranking) for large-scale documents.  
+- Fine-tuning LLMs (e.g. Qwen / LLaMA variants) using PEFT/SFT; quantization for optimized inference; distributed training on cloud/cluster setups.  
+- Implementing **agentic AI workflows** integrating external enterprise data sources (e.g. Salesforce) for contextual querying and automated reporting.  
 
-**Frameworks:**  
-`PyTorch` • `TensorFlow` • `FastAPI` • `LangChain` • `LangGraph` • `Diffusers` • `Ray` • `Horovod`
-
-**Infra:**  
-`Docker` • `Microservices` • `Azure` • `AWS` • `RabbitMQ` • `MongoDB` • `MySQL` • `MinIO`
-
-**Other:**  
-`GitHub Actions` • `vLLM` • `FAISS` • `Vector DBs` • `EDA`
+These experiences are part of my professional/freelance portfolio, which I’m happy to discuss or present privately — they reflect real-world impact even if not fully open-sourced.  
 
 ---
 
-## 🏗️ Featured Projects
-
-### 🔹 **⚡ Custom Enterprise RAG Platform (10× cheaper than Vectara)**  
-Built an end-to-end RAG solution with **hybrid search**, **MySQL metadata filtering**, **FastAPI backend**, and **efficient chunking + embeddings pipeline**. Delivered **10× cost reduction** and improved accuracy.
-
-### 🔹 **On-Prem LLM Inference Platform (Defense Project)**  
-Designed a **5-microservice architecture**: RabbitMQ + MongoDB + MinIO + inference + orchestration. Supports **secure document generation** and **intelligent ingestion** using on-device LLMs.
-
-### 🔹 **Agentic RAG for Salesforce EinsteinDB**  
-Created an AI agent capable of **direct contextual querying** of Salesforce EinsteinDB + automated report generation.
-
-### 🔹 **Fine-tuned Qwen3-4B for Reasoning**  
-Performed SFT on curated reasoning datasets; used **AMD MI300X** + **vLLM** for high-throughput inference.
-
-### 🔹 **Distributed LLM Training on Azure**  
-Used **Horovod, Ray Tune, DDP** on multi-VM clusters + quantized models using **GGUF, AWQ, GPTQ**.
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashrai2003&show_icons=true&theme=tokyonight" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashrai2003&layout=compact&theme=tokyonight" height="180">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashrai2003&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashrai2003&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashrai2003&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 Achievements  
-- Built multiple **startup-grade, production-ready AI systems** end-to-end  
-- Delivered **10× cost optimization** through custom RAG architecture  
-- Contributed to **GSSoC** implementing Bayesian Optimization reducing training time by **40%**  
-- Experience working across **defense, enterprise, and early-stage startup AI** ecosystems  
+## ✨ Quick About Me  
+- Passionate about building **end-to-end AI & ML systems** — from data preprocessing and embeddings to inference and deployment.  
+- Enjoy solving hard technical problems, especially around retrieval, embedding pipelines, scalability, distributed compute and RAG systems.  
+- Always experimenting, always learning — my public repos reflect the “sandbox” where I try out new ideas; my private / industry work reflects the “production” where I deliver at scale.  
 
----
-
-## 🌐 Connect with Me  
-📩 Email: **akashtooop@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/akash-rai1701  
-🐙 GitHub: https://github.com/akashrai2003  
-
----
-
-⭐ *If you like my work, consider starring my repositories!*  
+If you like what you see — feel free to explore my repos, drop a star, or reach out!  
