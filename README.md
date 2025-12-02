@@ -9,21 +9,13 @@
 
 ---
 
-## 🧑‍💻 Public Projects & Repos  
-Here are some of my publicly accessible projects:
-
-| Repo / Project Name | Short Description |
-|--------------------|-------------------|
-| **`RAG-POC`** | Proof-of-concept for RAG pipelines (embeddings + retrieval + generation) — demo-level. |
-| **`FineTuning-MultimodalLM`** | Experimentation with multimodal model fine-tuning and testing. |
-| **`NLP-Pipeline`** | Python-based text processing & NLP pipeline scripts / utilities. |
-| **`Content-Transformation-Agent`** | Prototype agent for content transformation using LLMs + retrieval. |
-| **`Adv_RAG`** | Advanced RAG pipeline project capable of handling large embedding sets. |
-
-> ⚠️ *Note*: These are public prototypes and experiments — meant to showcase my coding style, approach to ML/NLP engineering, and willingness to explore.  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=akashrai2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🚀 What I Do (Industry & Private Work)  
 Beyond public repos, I have heavy experience building production-grade systems in corporate and startup settings:  
 
@@ -35,13 +27,6 @@ Beyond public repos, I have heavy experience building production-grade systems i
 These experiences are part of my professional/freelance portfolio, which I’m happy to discuss or present privately — they reflect real-world impact even if not fully open-sourced.  
 
 ---
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashrai2003&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashrai2003&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
