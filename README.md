@@ -31,7 +31,7 @@ These experiences are part of my professional/freelance portfolio, which I’m h
 
 <p align="center">
 <a href="https://github.com/AbhijitAher">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbhijitAher&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akashrai2003&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
 </a>
 </p>
 
