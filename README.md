@@ -29,7 +29,7 @@ These experiences are part of my professional/freelance portfolio, which I’m h
 ---
 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=akashrai2003&theme=default&hide_border=false)<br/>
+![]([https://nirzak-streak-stats.vercel.app/?user=akashrai2003&theme=default&hide_border=false](https://github-readme-stats-eight-theta.vercel.app/api?username=akashrai2003&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true))<br/>
 
 ---
 
